@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/https://julskdj.github.io/betasystems/static/css/main.47d8dfc6.chunk.css",
+    "main.js": "/https://julskdj.github.io/betasystems/static/js/main.86402750.chunk.js",
+    "main.js.map": "/https://julskdj.github.io/betasystems/static/js/main.86402750.chunk.js.map",
+    "runtime-main.js": "/https://julskdj.github.io/betasystems/static/js/runtime-main.7188e147.js",
+    "runtime-main.js.map": "/https://julskdj.github.io/betasystems/static/js/runtime-main.7188e147.js.map",
+    "static/js/2.b18771d9.chunk.js": "/https://julskdj.github.io/betasystems/static/js/2.b18771d9.chunk.js",
+    "static/js/2.b18771d9.chunk.js.map": "/https://julskdj.github.io/betasystems/static/js/2.b18771d9.chunk.js.map",
+    "index.html": "/https://julskdj.github.io/betasystems/index.html",
+    "static/css/main.47d8dfc6.chunk.css.map": "/https://julskdj.github.io/betasystems/static/css/main.47d8dfc6.chunk.css.map",
+    "static/js/2.b18771d9.chunk.js.LICENSE.txt": "/https://julskdj.github.io/betasystems/static/js/2.b18771d9.chunk.js.LICENSE.txt",
+    "static/media/quienes.css": "/https://julskdj.github.io/betasystems/static/media/pexels-ron-lach-9783827 (2).da1a9a29.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7188e147.js",
+    "static/js/2.b18771d9.chunk.js",
+    "static/css/main.47d8dfc6.chunk.css",
+    "static/js/main.86402750.chunk.js"
+  ]
+}
